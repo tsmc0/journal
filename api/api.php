@@ -1,7 +1,6 @@
 <?php 
 
     /* ====================================
-    # DNTS (www.darknext.net)
     # PRODUCT: ElectronJournal
     # DATE: MAY 2024
     ==================================== */
